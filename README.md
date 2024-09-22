@@ -30,7 +30,7 @@ Before running this project, you will need the following:
 
 ## Example
 1. **Korean-to-English Translation**
-![image](https://github.com/user-attachments/assets/490383a0-3a01-4eb5-9f4e-dbb8bc9c5084)
+![image](https://github.com/user-attachments/assets/6c32d676-22f3-4362-a5b3-222353a851b8)
 2. **Paper Summarization**
 ![image](https://github.com/user-attachments/assets/f66741e6-ec1e-4937-a816-be17f17871aa)
 3. **Chain-of-Thought Reasoning**
