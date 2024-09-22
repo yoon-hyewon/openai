@@ -27,3 +27,4 @@ Before running this project, you will need the following:
    ```bash
    cd openai
    python chatbot.py
+![image](https://github.com/user-attachments/assets/490383a0-3a01-4eb5-9f4e-dbb8bc9c5084)
