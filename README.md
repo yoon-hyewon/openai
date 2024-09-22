@@ -20,5 +20,8 @@ Before running this project, you will need the following:
 
 1. **Clone the repository**:
    git clone https://github.com/yoon-hyewon/openai.git
+2. **install openai**:
+   pip install openai==0.28
+3. **execute**:
    cd openai
    python chatbot.py
