@@ -16,7 +16,7 @@ Before running this project, you will need the following:
 - OpenAI Python package (v0.28.0)
 - A valid OpenAI API key
 
-## Installation
+## Installation & Excute
 
 1. **Clone the repository**:
    ```bash
@@ -25,5 +25,7 @@ Before running this project, you will need the following:
    ```bash
    pip install openai==0.28
 3. **execute**:
+   ```bash
    cd openai
+   ```bash
    python chatbot.py
