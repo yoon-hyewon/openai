@@ -1,5 +1,4 @@
-# openai
-# AI Automation Toolkit
+# openai chatbot
 
 ## Overview
 This toolkit provides three main functionalities using OpenAI's GPT models:
