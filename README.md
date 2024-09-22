@@ -12,13 +12,13 @@ This project uses OpenAI's GPT-3.5-turbo and GPT-4 models and is compatible with
 ## Requirements
 
 Before running this project, you will need the following:
-- Python 3.x
+- Python 3.9
 - OpenAI Python package (v0.28.0)
 - A valid OpenAI API key
 
 ## Installation
 
 1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/yoon-hyewon/openai.git
+   cd openai
+   python chatbot.py
