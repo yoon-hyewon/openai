@@ -27,4 +27,12 @@ Before running this project, you will need the following:
    ```bash
    cd openai
    python chatbot.py
+
+## Example
+1. **Korean-to-English Translation**
 ![image](https://github.com/user-attachments/assets/490383a0-3a01-4eb5-9f4e-dbb8bc9c5084)
+2. **Paper Summarization**
+![image](https://github.com/user-attachments/assets/f66741e6-ec1e-4937-a816-be17f17871aa)
+3. **Chain-of-Thought Reasoning**
+![image](https://github.com/user-attachments/assets/3205ccf9-363a-4ad6-ba6b-0bdca18d1df6)
+
