@@ -27,5 +27,4 @@ Before running this project, you will need the following:
 3. **execute**:
    ```bash
    cd openai
-   ```bash
    python chatbot.py
