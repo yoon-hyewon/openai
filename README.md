@@ -1,4 +1,4 @@
-# openai chatbot
+# Openai Chatbot
 
 ## Overview
 This toolkit provides three main functionalities using OpenAI's GPT models:
