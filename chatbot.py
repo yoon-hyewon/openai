@@ -2,7 +2,7 @@ import openai
 import os
 
 # OpenAI API 키 설정
-openai.api_key = ""
+openai.api_key = input("openai의 api key를 입력하세요 : ")
 
 # 논문 요약 기능
 def summarize_paper(text):
