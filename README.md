@@ -19,8 +19,10 @@ Before running this project, you will need the following:
 ## Installation
 
 1. **Clone the repository**:
+   ```bash
    git clone https://github.com/yoon-hyewon/openai.git
 2. **install openai**:
+   ```bash
    pip install openai==0.28
 3. **execute**:
    cd openai
