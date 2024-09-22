@@ -7,7 +7,7 @@ This toolkit provides three main functionalities using OpenAI's GPT models:
 - **Korean-to-English Translation**: Translates Korean text into English for academic writing.
 - **Chain-of-Thought Reasoning**: Provides detailed answers to questions using a step-by-step reasoning process.
 
-This project uses OpenAI's GPT-3.5-turbo and GPT-4 models and is compatible with OpenAI Python package version 0.28.0.
+This project uses OpenAI's GPT-4 models and is compatible with OpenAI Python package version 0.28.0.
 
 ## Requirements
 
